@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "test-nano",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
